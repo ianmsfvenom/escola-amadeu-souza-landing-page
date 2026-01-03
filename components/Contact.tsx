@@ -54,7 +54,7 @@ const Contact = () => {
                     </div>
 
                     {/* Map */}
-                    <div className="w-full md:w-2/3 min-h-[400px] bg-gray-200">
+                    <div className="w-full md:w-2/3 h-[450px] md:h-auto bg-gray-200 relative">
                         <iframe
                             src="https://maps.google.com/maps?q=Rua%20Jaime%20Janssen%20Muller%2C%2054%2C%20Salvador%2C%20BA&t=&z=15&ie=UTF8&iwloc=&output=embed"
                             className="w-full h-full border-0"
