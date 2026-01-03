@@ -11,7 +11,7 @@ const Hero = () => {
             {/* Content */}
             <div className="container mx-auto px-4 z-10 relative">
                 <div className="max-w-4xl mx-auto text-center text-white space-y-8">
-                    <div className="inline-block px-4 py-1.5 bg-white/20 backdrop-blur-md rounded-full border border-white/30 text-sm font-medium tracking-wider mb-4 animate-fade-in-up">
+                    <div className="inline-block px-4 py-1.5 bg-green-600/20 backdrop-blur-md rounded-full border border-green-400/50 text-green-400 font-bold tracking-wide mb-4 animate-fade-in-up">
                         EDUCAÇÃO DE EXCELÊNCIA
                     </div>
 
